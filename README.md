@@ -6,7 +6,7 @@
 <div>
   
  
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erisson10&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erisson10&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
  
  &nbsp;
