@@ -12,12 +12,6 @@
  &nbsp;
  &nbsp;
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## My Skills
 
